@@ -143,22 +143,44 @@ flowchart TD
 
 ## 🎥 Demo
 
-> _Demo media coming soon._
+Everything below was produced by the pipeline from a **single line of input** —
+no manual editing, no human in the loop between the prompt and the finished file.
 
-**Sample output**
+### Clip from a finished film
 
-<!-- Replace with your finished video, GIF, or a YouTube link -->
+<p align="center">
+  <img src="demo/pipeline-demo.gif" alt="12-second excerpt from a film generated end to end by the pipeline" width="100%">
+</p>
+
+<p align="center"><em>A 12-second excerpt — consistent characters across shots, automatic transitions, colour grading, and a scored music bed.</em></p>
+
+### Sample stills
+
+<table>
+  <tr>
+    <td width="50%"><img src="demo/still-character-closeup.png" alt="Close-up of a recurring character" width="100%"></td>
+    <td width="50%"><img src="demo/still-full-scene.png" alt="Wide establishing shot at sunset" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><em><strong>Character close-up</strong><br/>The same character model, held consistent across every scene in the film</em></td>
+    <td align="center"><em><strong>Full scene</strong><br/>Wide establishing shot, colour-graded to match the surrounding scenes</em></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="demo/still-key-moment.png" alt="Key story moment" width="100%"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><em><strong>Key moment</strong><br/>Environments and props are defined once in the bibles, then reused across the story</em></td>
+  </tr>
+</table>
+
+### Full film
+
+<!-- Replace with a YouTube / Vimeo link to the complete video -->
 `[DEMO_VIDEO_HERE]`
 
-**Pipeline in action**
-
-<!-- Replace with a screen recording or GIF of a run -->
-`[DEMO_GIF_HERE]`
-
-**Sample stills**
-
-<!-- Replace with generated frames / thumbnails -->
-`[SCREENSHOTS_HERE]`
+> Stills and clip are unretouched output, straight from the pipeline. The small
+> sparkle mark in the corner is the video provider's own AI-content watermark —
+> it is part of what the provider generates and has deliberately not been removed.
 
 ---
 
