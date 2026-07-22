@@ -197,10 +197,36 @@ rather you skip it than be surprised.
 **What's included:**
 
 - ✅ **Full source code** — the complete pipeline, every stage described above
+- ✅ **Perpetual license** — yours to use and modify, no recurring fee
 - ✅ **Setup guide** — step-by-step from a blank server to a working install
-- ✅ **Install support** — help getting your first run working
+- ✅ **Install support for 30 days** — I answer your setup questions by message for 30 days from purchase, to get your first run working
 
 ### 👉 [**Buy the source — $149**][GUMROAD_LINK_HERE]
+
+### Pricing at a glance
+
+| | Price | What it covers |
+|---|---|---|
+| **Source + license** | **$149** one-time | Full source code, perpetual license, setup guide, and 30 days of install support |
+| **Installation service** | **$100** optional | I set it up on your server for you, end to end, and hand it over running |
+| **Bug-fix request** | **$50** each | A specific, reproducible defect in the source code |
+
+**Install support vs. installation service** — the $149 includes me *answering
+your questions* for 30 days while you do the install yourself. The $100 add-on
+is me *doing the install for you*. If you'd rather not touch a server, buy both.
+
+**What a $50 bug-fix request does _not_ cover.** Please read this before
+assuming a fix is included:
+
+- ❌ **Breakage caused by Gemini or ChatGPT changing their web interface.** This is the most common way the tool stops working, and it is explicitly **not** a defect — see the [disclaimer](#️-important-disclaimer). Adapting to a provider UI change is a paid maintenance job, quoted separately.
+- ❌ Provider-side account restrictions, quota limits, refusals, or bans
+- ❌ VPS, hosting, OS, network, or third-party service changes on your side
+- ❌ New features, customisations, or behaviour changes
+- ❌ Problems in code you have modified
+
+A bug-fix request covers a defect in the source **as delivered**, reproducible
+on a working install. If it turns out to be provider- or environment-caused,
+I'll tell you before charging.
 
 [GUMROAD_LINK_HERE]: # "Replace this with your Gumroad / Lemon Squeezy checkout URL"
 
